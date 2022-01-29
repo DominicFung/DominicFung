@@ -47,6 +47,12 @@
         <div class="tag">Nodejs</div>
         <div class="tag">AWS Appsync</div>
       </div>
+      <div class="tags">
+        <div class="tag">AWS Amplify</div>
+        <div class="tag">Tailwind CSS</div>
+        <div class="tag">Polaris (Shopify)</div>
+        <div class="tag">Material Design</div>
+      </div>
     </div>
   </foreignObject>
 </svg>
