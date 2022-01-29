@@ -5,8 +5,8 @@
         .tags {
           display: flex;
           flex-wrap: wrap;
-          height: 110%;
-          width: 110%;
+          height: 120%;
+          width: 120%;
           margin-bottom: 5px;
         }
         .tag {
