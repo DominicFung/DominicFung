@@ -20,4 +20,4 @@ Also, feel free to check out <a href="https://dom-fung.com" target="_blank">my p
 
 ## I am good at a few things:
 
-<img src="https://github.com/DominicFung/DominicFung/blob/main/tags.svg" width="700" height="auto">
+<img src="https://github.com/DominicFung/DominicFung/blob/main/tags.svg" width="auto" height="auto">
