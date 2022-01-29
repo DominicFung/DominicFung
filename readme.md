@@ -3,17 +3,19 @@
 </p>	
 <img src="https://github.com/DominicFung/DominicFung/blob/main/waves.svg" width="100%" height="150">
 
-# Hello! 👋️
-![](https://komarev.com/ghpvc/?username=matfantinel&color=0ca4a5)
+# Hello! I'm Dom 👋️
+![](https://komarev.com/ghpvc/?username=dominicfung&color=0ca4a5)
 
-I am a full-stack developer from Toronto, Canada. My deal is building fast, beautiful and high-quality web apps, but I have also worked on mobile and desktop apps (it was pretty fun!). Whenever possible, I work with Open Source Software (OSS). You can check out my OSS projects here on GitHub.
+I am a full-stack developer from Toronto, Canada. My favorite frontend framework is React and Flutter for mobile apps. For my backends, I really love AWS cloudformation & lambda. I'm not very good at C++, but I'll google my way out of the problem.
 
-Also, feel free to check what I've been rambling about on <a href="https://fantinel.dev" target="_blank">my blog</a>.
+Also, feel free to check what I've been rambling about on <a href="https://dom-fung.com" target="_blank">my blog</a>.
 
+### My Hobbies:
 <ul>
-<li>Front-End Web Developer</li>
-<li>Open Sourcerer</li>
-<li>Bullet List Enthusiast</li>
+<li>Musician - Guitar ❤️ </li>
+<li>Motorcyclist 🏍️</li>
+<li>Tiny home lover (although I don't own one yet)</li>
+<li>3D printing enthusiast</li>
 </ul>
 
 ## I am good at a few things:
